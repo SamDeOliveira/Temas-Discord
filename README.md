@@ -1,9 +1,9 @@
 # Temas-Discord
-Temas para o Discord
 https://samdeoliveira.tech/temas-discord/
 <br>
-Eu fiz alguns temas no Photoshop, upei na nuvem e importei no css. 
-Pra usar meus temas basta: 
+Eu fiz alguns temas no Photoshop, upei na nuvem e importei no css.<br> 
+Faço temas personalizados por 5$ (Design incluido).
+- Pra usar meus temas basta: 
 - Instalar o BetterDiscord (mod pro discord que permite instalar plugins e temas).
 - Abrir as configurações do discord, descer até 'css personalizado' e colar o meu código. 
 <br>

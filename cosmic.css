@@ -1,0 +1,45 @@
+/**
+ * @Samde0liveira
+* Tema da CosmicSec <3
+ * Temas pra discord: de 5$ a 10$; (Design Incluido).
+ * Meu site: samdeoliveira.tech
+ */
+
+@import url('https://samdeoliveira.tech/temas-discord/main.css');
+
+
+:root {
+
+
+  /* IMAGEM (1 linha imagem de fundo) */
+
+  --background-image: url('https://i.ibb.co/MVxw5hH/cosmic.png');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --overlay-image-blur: 0px;
+  --overlay-image-position: center;
+  --serverlist-brightness: 0.48;
+  --left-brightness: 0.62;
+  --middle-brightness: 0.36;
+  --right-brightness: 0;
+  --overlay-brightness: 0.62;
+  --gradient-primary: rgb(255,0,0,1);
+
+    /* BOTÃOZIN (gradiente de alguns botões) */
+  --gradient-secondary: 255,0,0,1;
+  --link-colour: rgb(255,0,0,1);
+  --scrollbar-colour: rgb(255,0,0,1);
+  --gradient-direction: 189deg;
+  --tint-colour: rgb(255,0,0,1);
+  --tint-brightness: 0;
+  --window-padding: 14px;
+  --window-roundness: 19px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 38px;
+  --HSL-server-spacing: 8px;
+}
+
+
+
+
